@@ -1,0 +1,7 @@
+host = www.avito.ru
+
+area = /moskovskaya_oblast
+object = /avtomobili
+model = /honda/accord
+
+url_part_for_page = "p="
